@@ -1,0 +1,29 @@
+{
+  "name": "gallery",
+  "authors": [
+    "Larissa Rabello <lari.rabello@gmail.com>"
+  ],
+  "description": "",
+  "main": "",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "php",
+    "sql",
+    "bootstrap"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.3.6"
+  }
+}
